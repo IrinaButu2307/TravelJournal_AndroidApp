@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "499677704659",
+    "firebase_url": "https://travelfinal-69d4e.firebaseio.com",
+    "project_id": "travelfinal-69d4e",
+    "storage_bucket": "travelfinal-69d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499677704659:android:01578ef0540d70bd",
+        "android_client_info": {
+          "package_name": "com.example.traveljournal_androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499677704659-fmset6cskd914mqfe6p6sfjo6kiihph2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGnVLqz96cZgsbRTCfyeezI2oMjmW2yjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
